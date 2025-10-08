@@ -36,3 +36,5 @@ int main(void)
             printf("Digit %d has been repeated %d times\n", i, count[i]);
     }
 }
+
+//incomplete program
