@@ -2,9 +2,9 @@
 #include <stdbool.h>
 #include <stdio.h>
 
-int main (void)
+int main ()
 {
-    int n,m;
+    int n;
 
     printf("Enter the no. of elements in an array : ");
     scanf("%d", &n);
