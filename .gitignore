@@ -1,0 +1,11 @@
+# Ignore compiled C files
+*.o
+*.out
+
+# Ignore executable files
+a.out
+
+# Ignore Vim swap files
+*.swp
+
+.git/
